@@ -1,0 +1,2 @@
+# demo rule: alert on DNS query for a test domain
+alert dns any any -> any any (msg:"DNS query for bad domain"; dns.query; content:"bad.example"; nocase; classtype:trojan-activity; sid:100001; rev:1;)
