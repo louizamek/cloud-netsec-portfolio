@@ -1,5 +1,5 @@
-# Resume Bullets
-- Built on-prem SOC lab (pfSense, Suricata, Zeek, Wazuh).
-- Deployed Azure hub-spoke via Terraform with policy + KQL.
-- CI/CD with security scans to Kubernetes using GitHub Actions.
-- Azure↔AWS IPsec with routing validation.
+# Resume Highlights
+- Built an on-prem security lab with pfSense, Suricata, Zeek, and Wazuh.
+- Created Azure Zero Trust network via Terraform with policy and logging.
+- Deployed a secure app with DevSecOps pipeline and Kubernetes.
+- Configured Azure↔AWS IPsec site-to-site VPN with routing validation.
